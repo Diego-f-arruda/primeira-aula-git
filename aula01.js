@@ -15,7 +15,3 @@ if (PT < 50){
 }else{
     document.write("Jogou Demais");
 }
-
-
-
-
